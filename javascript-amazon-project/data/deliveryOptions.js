@@ -8,6 +8,6 @@ export const deliveryOptions = [{
     priceCents: 499
 },{
     id: '3',
-    deliveryOptions: 1,
+    deliveryDays: 1,
     priceCents: 999
 }];
